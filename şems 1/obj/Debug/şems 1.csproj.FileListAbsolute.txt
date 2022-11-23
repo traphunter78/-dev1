@@ -1,0 +1,10 @@
+D:\şemseddin\Sems\şems 1\şems 1\obj\Debug\şems 1.csproj.AssemblyReference.cache
+D:\şemseddin\Sems\şems 1\şems 1\obj\Debug\şems_1.Form1.resources
+D:\şemseddin\Sems\şems 1\şems 1\obj\Debug\şems_1.Properties.Resources.resources
+D:\şemseddin\Sems\şems 1\şems 1\obj\Debug\şems 1.csproj.GenerateResource.cache
+D:\şemseddin\Sems\şems 1\şems 1\obj\Debug\şems 1.csproj.CoreCompileInputs.cache
+D:\şemseddin\Sems\şems 1\şems 1\bin\Debug\şems 1.exe.config
+D:\şemseddin\Sems\şems 1\şems 1\bin\Debug\şems 1.exe
+D:\şemseddin\Sems\şems 1\şems 1\bin\Debug\şems 1.pdb
+D:\şemseddin\Sems\şems 1\şems 1\obj\Debug\şems 1.exe
+D:\şemseddin\Sems\şems 1\şems 1\obj\Debug\şems 1.pdb
